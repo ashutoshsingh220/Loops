@@ -1,4 +1,4 @@
-# Decision-making-statement-loops
+# Loops
 
 Aim:- Aim-To study and implement C++ decision making statement loops.
 
